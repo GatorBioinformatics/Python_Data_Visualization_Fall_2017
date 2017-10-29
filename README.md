@@ -30,3 +30,7 @@ The workshop builds on the UF DSI Data Visualization workshops, adding new tools
 The first exercise with walk though some basic data analysis and plotting.
 Use the [Plotting_student.ipynb](Plotting_student.ipynb) notebook to work through the steps.
 If you get stuck the [Plotting_instructor.ipynb](Plotting_instructor.ipynb)notbook has all the steps completed.
+
+## Exercise 2:
+
+The second exercise is taken from Justin Bois and Griffin Chure's page on [image processing with scikit-image](http://justinbois.github.io/bootcamp/2016/lessons/l38_intro_to_image_processing.html). This is a great source, and rather than reproduce everything here, open up that page in one window and a jupyter notebook in the other window and paste the code fragments into your notebook. The [SciKit.ipynb](SciKit.ipynb) is a completed notebook that shows everything and could be used if you get stuck.  
