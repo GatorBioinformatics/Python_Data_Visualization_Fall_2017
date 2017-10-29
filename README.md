@@ -10,7 +10,7 @@ The workshop builds on the UF DSI Data Visualization workshops, adding new tools
 
 - For this workshop we will be using Anaconda Python. Please download and install Anaconda on your computer from [Anaconda Python Download Site](https://www.anaconda.com/download).
     - There are Mac, Windows and Linux versions
-    - We will be using the Python 3.6. **Note that is different than the Python 2.7 used in the UF DSI workshops**. If you have 2.7, it would be best to install the 3.6 version for this workshop.
+    - We will be using the Python 3.6. **Note this is different than the Python 2.7 used in the UF DSI workshops**. If you have 2.7, it would be best to install the 3.6 version for this workshop.
 
 ## Getting started
 - On Mac and Linux:
@@ -25,5 +25,8 @@ The workshop builds on the UF DSI Data Visualization workshops, adding new tools
 - Should look like this:
 ![jupyter start](images/jupyter_start.png)
 - Click the New button and select Python 3.
-- Continue with this workshop on the [jupyter page](jupyter.ipython)
--
+
+## Exercise 1:
+The first exercise with walk though some basic data analysis and plotting.
+Use the [Plotting_student.ipynb](Plotting_student.ipynb) notebook to work through the steps.
+If you get stuck the [Plotting_instructor.ipynb](Plotting_instructor.ipynb)notbook has all the steps completed.
