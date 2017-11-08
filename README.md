@@ -6,6 +6,8 @@
 ## About this workshop
 The workshop builds on the UF DSI Data Visualization workshops, adding new tools and focusing on bioinformatics data and analyses. It assumes basic familiarity with Python, but should be clear enough for new users too.
 
+This workshop was first presented by Matt Gitzendanner on 11/6/17. Contact Matt at magitz@ufl.edu.
+
 ## Before the workshop
 
 - For this workshop we will be using Anaconda Python. Please download and install Anaconda on your computer from [Anaconda Python Download Site](https://www.anaconda.com/download).
@@ -27,9 +29,9 @@ The workshop builds on the UF DSI Data Visualization workshops, adding new tools
 - Click the New button and select Python 3.
 
 ## Exercise 1:
-The first exercise with walk though some basic data analysis and plotting.
+The first exercise will walk though some basic data analysis and plotting.
 Use the [Plotting_student.ipynb](Plotting_student.ipynb) notebook to work through the steps.
-If you get stuck the [Plotting_instructor.ipynb](Plotting_instructor.ipynb)notbook has all the steps completed.
+If you get stuck the [Plotting_instructor.ipynb](Plotting_instructor.ipynb) notebook has all the steps completed.
 
 ## Exercise 2:
 
